@@ -9,7 +9,9 @@
     font-weight: 500;
     margin-bottom: 10px;
 }
-
+.w-10{
+    width: 10%;
+}
 /* HEADER */
 .bikerz-header-bg {
     background: #264653;
