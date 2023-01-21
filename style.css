@@ -28,6 +28,12 @@
     line-height: 28px;
     color: #7E848C;
 }
+.bikerz-footer-bg{
+    background: #0B0D17;
+}
+.unstylied{
+    list-style-type: none;
+}
 @media only screen and (min-width:768px) {
     .p-md-5 {
         padding: 3rem;
