@@ -9,15 +9,27 @@
     font-weight: 500;
     margin-bottom: 10px;
 }
-.w-10{
-    width: 10%;
+
+.w-5 {
+    width: 5%;
 }
-/* HEADER */
+
 .bikerz-header-bg {
     background: #264653;
 }
+
+.bikerz-faq-header {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 28px;
+    color: #383838;
+}
+.bikerz-faq-answers{
+    line-height: 28px;
+    color: #7E848C;
+}
 @media only screen and (min-width:768px) {
-    .p-md-5{
-        padding:3rem;
+    .p-md-5 {
+        padding: 3rem;
     }
 }
