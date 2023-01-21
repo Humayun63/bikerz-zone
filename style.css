@@ -1,0 +1,15 @@
+/* BASIC SETUP */
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+.bikerz-btn-danger {
+    background: #E76F51;
+    color: #FFFFFF;
+    font-weight: 500;
+}
+
+/* HEADER */
+.bikerz-header-bg {
+    background: #264653;
+}
