@@ -7,9 +7,15 @@
     background: #E76F51;
     color: #FFFFFF;
     font-weight: 500;
+    margin-bottom: 10px;
 }
 
 /* HEADER */
 .bikerz-header-bg {
     background: #264653;
+}
+@media only screen and (min-width:768px) {
+    .p-md-5{
+        padding:3rem;
+    }
 }
